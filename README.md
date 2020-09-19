@@ -1,7 +1,7 @@
-![Ship](https://github.com/kwdaisuke/Kaggle-Titanic/blob/master/sea-3121435_1920.jpg?raw=true)
 
 # Kaggle-Titanic
 This is the legendary Titanic ML competition – the best, first challenge for you to dive into ML competitions and familiarize yourself with how the Kaggle platform works
+![Ship](https://github.com/kwdaisuke/Kaggle-Titanic/blob/master/sea-3121435_1920.jpg?raw=true)
 
 # The Challenge
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
